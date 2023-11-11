@@ -13,7 +13,7 @@ Proyek ini merupakan contoh proyek analisis data menggunakan Python dan pembuata
 1. Klona repositori ini:
 
     ```bash
-    git clone https://github.com/abdansyakur14002/Project-Ahir.git
+    git clone https://github.com/abdansyakur14002/Project-Akhir.git
     cd Project-Akhir
     ```
 
