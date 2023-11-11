@@ -14,7 +14,7 @@ Proyek ini merupakan contoh proyek analisis data menggunakan Python dan pembuata
 
     ```bash
     git clone https://github.com/abdansyakur14002/Project-Ahir.git
-    cd nama-repositori
+    cd Project-Akhir
     ```
 
 2. Buat dan aktifkan lingkungan virtual (opsional, tetapi disarankan):
