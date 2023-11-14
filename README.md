@@ -36,7 +36,7 @@ Proyek ini merupakan contoh proyek analisis data menggunakan Python dan pembuata
 1. Jalankan dashboard Streamlit:
 
     ```bash
-    streamlit run main.py
+    streamlit run dashboard.py
     ```
 
     Gantilah `main.py` dengan nama skrip Python yang berisi pembuatan dashboard Streamlit.
