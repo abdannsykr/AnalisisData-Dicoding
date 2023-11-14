@@ -2,11 +2,11 @@ import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
 
-day_file = 'day.csv'
-hour_file = 'hour.csv'
+day = 'day.csv'
+hour = 'hour.csv'
 
-data_day = pd.read_csv(day_file)
-data_hour = pd.read_csv(hour_file)
+data_day = pd.read_csv(day)
+data_hour = pd.read_csv(hour)
 
 st.title('Dashboard Penyewaan Sepeda')
 
