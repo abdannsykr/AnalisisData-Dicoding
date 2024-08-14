@@ -1,6 +1,6 @@
-# Proyek Pengembangan Dashboard Analisis Data menggunakan Streamlit untuk Penyewaan Sepeda dalam Skala Harian dan Bulanan.
+# Dashboard Analisis Data menggunakan Streamlit untuk Penyewaan Sepeda dalam Skala Harian dan Bulanan.
 
-Proyek ini adalah contoh analisis data menggunakan Python yang berfokus pada penyewaan sepeda dalam skala harian dan bulanan. Melalui pembuatan dashboard interaktif dengan Streamlit, proyek ini memberikan wawasan yang mudah dipahami mengenai tren dan pola penyewaan.
+Analisis data menggunakan Python ini berfokus pada penyewaan sepeda dalam skala harian dan bulanan. Melalui pembuatan dashboard interaktif dengan Streamlit, hasilnya memberikan wawasan yang mudah dipahami mengenai tren dan pola penyewaan.
 
 ## Persyaratan
 
