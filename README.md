@@ -1,6 +1,6 @@
-# Proyek Pengembangan Dashboard Analisis Data menggunakan Streamlit
+# Proyek Pengembangan Dashboard Analisis Data menggunakan Streamlit untuk Penyewaan Sepeda dalam Skala Harian dan Bulanan.
 
-Proyek ini merupakan contoh penerapan analisis data menggunakan Python serta pembuatan dashboard interaktif dengan Streamlit.
+Proyek ini adalah contoh analisis data menggunakan Python yang berfokus pada penyewaan sepeda dalam skala harian dan bulanan. Melalui pembuatan dashboard interaktif dengan Streamlit, proyek ini memberikan wawasan yang mudah dipahami mengenai tren dan pola penyewaan.
 
 ## Persyaratan
 
@@ -9,7 +9,7 @@ Proyek ini merupakan contoh penerapan analisis data menggunakan Python serta pem
 
 ## Instalasi
 
-1. Klona repositori ini:
+1. Clone repositori ini:
 
     ```bash
     git clone https://github.com/abdansyakur14002/Project-Akhir.git
