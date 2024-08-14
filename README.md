@@ -1,7 +1,6 @@
-# Project-Akhir
-# Proyek Analisis Data dan Dashboard Streamlit
+# Proyek Pengembangan Dashboard Analisis Data menggunakan Streamlit
 
-Proyek ini merupakan contoh proyek analisis data menggunakan Python dan pembuatan dashboard interaktif dengan Streamlit.
+Proyek ini merupakan contoh penerapan analisis data menggunakan Python serta pembuatan dashboard interaktif dengan Streamlit.
 
 ## Persyaratan
 
