@@ -12,8 +12,8 @@ Analisis data menggunakan Python ini berfokus pada penyewaan sepeda dalam skala 
 1. Clone repositori ini:
 
     ```bash
-    git clone https://github.com/abdansyakur14002/Project-Akhir.git
-    cd Project-Akhir
+    git clone https://github.com/abdansyakur14002/AnalisisData-Dicoding.git
+    cd AnalisisData-Dicoding
     ```
 
 2. Buat dan aktifkan lingkungan virtual (opsional, tetapi disarankan):
