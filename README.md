@@ -54,4 +54,4 @@ Jika Anda ingin berkontribusi pada proyek ini, harap ikuti langkah-langkah berik
 5. Push ke cabang (`git push origin fitur-baru`).
 6. Buat pull request.
 ---
-© 2023 Abdan Syakur | Dibuat dengan ❤️
+© 2023 Abdan Syakur
